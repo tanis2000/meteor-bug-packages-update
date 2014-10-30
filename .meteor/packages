@@ -1,0 +1,43 @@
+# Meteor packages used by this project, one per line.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+#meteor-platform
+standard-app-packages
+jquery
+alanning:roles
+manuelschoebel:ms-seo
+accounts-base
+accounts-password
+accounts-twitter
+#arunoda:npm
+gadicohen:headers
+jeeeyul:moment-with-langs
+accounts-facebook
+accounts-google
+sacha:spin
+dandv:jquery-rateit
+email
+
+#mrt:iron-router-progress
+gfk:notifications
+less
+raix:handlebar-helpers
+meteorhacks:kadira
+arunoda:subs-manager
+underscore
+meteorhacks:npm
+
+
+rajit:bootstrap3-datepicker
+cmather:handlebars-server
+reactive-dict
+spiderable
+iron:router
+gadicohen:phantomjs
+gadicohen:messageformat
+meteorhacks:inject-initial
+altapp:urlify2-minifiable
+
+npm-container
